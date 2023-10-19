@@ -20,10 +20,10 @@ class Song:
         self.add_to_artist_count()
         
     # solved using class methods and instance methods for the following:
-        self.add_to_genres()
-        self.add_to_artists()
-        self.add_to_genre_count()
-        self.add_to_artist_count()
+        # add_to_genres()
+        # add_to_artists()
+        # add_to_genre_count()
+        # add_to_artist_count()
       
     
     @classmethod
